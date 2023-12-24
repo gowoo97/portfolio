@@ -10,6 +10,6 @@
 -------------------------------------------------
 ## shorts(vue.js를 사용한 sns)
 사용기술:spring boot, vue.js,jpa <br/>
-내용:vue.js를 사용하여 팔로우 기능과 게시물 쓰기 기능을 구현하였습니다. <br/>
+내용:vue.js를 사용하여 팔로우 기능과 게시물 쓰기 기능 및 댓글 기능을 구현하였습니다. <br/>
 <https://github.com/gowoo97/Shorts/>
 
