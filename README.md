@@ -14,7 +14,7 @@
 <https://github.com/gowoo97/Shorts/>
 
 --------------------------------------------------
-## shoppingReact (리액트로 만든 쇼핑몰)
+## shoppingReact (리액트로 만든 쇼핑몰)(진행중)
 사용기술:spring boot, spring security , jwt, mybatis , react <br/>
 내용:리액트와 스프링 부트를 사용한 쇼핑몰 입니다. <br/>
 <https://github.com/gowoo97/shoppingReact />
